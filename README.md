@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jeongeun-Ha
+- 👀 I’m interested in Database and Graph Neural Network
+- 🌱 I’m currently learning DB and Deep Learning
+- 📫 How to reach me > jeha@dblab.postech.ac.kr
